@@ -5,7 +5,7 @@ import funkin.game.Character;
 import funkin.editors.ui.UITopMenu.UITopMenuButton;
 import funkin.game.HealthIcon;
 import funkin.backend.chart.ChartData.ChartStrumLine;
-import flixel.sound.FlxSound;
+import flixel.system.FlxSound;
 
 class CharterStrumline extends UISprite {
 	public var strumLine:ChartStrumLine;
