@@ -6,7 +6,7 @@ import flixel.tweens.FlxTween;
 import flixel.system.frontEnds.SoundFrontEnd;
 import flixel.system.FlxSound;
 import funkin.backend.system.Conductor;
-import flixel.sound.FlxSoundGroup;
+import flixel.system.FlxSoundGroup;
 import haxe.Json;
 import haxe.io.Path;
 import haxe.xml.Access;
