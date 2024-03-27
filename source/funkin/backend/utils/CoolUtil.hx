@@ -4,7 +4,7 @@ import flixel.text.FlxText;
 import funkin.backend.utils.XMLUtil.TextFormat;
 import flixel.tweens.FlxTween;
 import flixel.system.frontEnds.SoundFrontEnd;
-import flixel.sound.FlxSound;
+import flixel.system.FlxSound;
 import funkin.backend.system.Conductor;
 import flixel.sound.FlxSoundGroup;
 import haxe.Json;
