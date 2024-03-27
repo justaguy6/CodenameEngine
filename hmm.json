@@ -7,34 +7,59 @@
 		{
 			"name":"lime",
 			"type":"haxelib",
-			"version":"7.9.0"
+			"version":"8.0.2"
 		},
 		{
 			"name":"openfl",
 			"type":"haxelib",
-			"version":"9.1.0"
+			"version":"9.2.2"
 		},
 		{
 			"name":"flixel",
-			"type":"git",
-			"url":"https://github.com/FNF-CNE-Devs/flixel"
-			"ref":"master",
+		        "type":"git",
+		        "ref":"master",
+		        "url":"https://github.com/FNF-CNE-Devs/flixel"
 		},
 		{
 			"name":"flixel-addons",
-			"type":"haxelib",
-			"version":"2.11.0"
+                        "type":"git",
+		        "ref":"master",
+		        "url":"https://github.com/FNF-CNE-Devs/flixel-addons"
+		},
+                {
+			"name":"hscript-improved",
+                        "type":"git",
+		        "ref":"master",
+		        "url":"https://github.com/FNF-CNE-Devs/hscript-improved"
+		},
+                {
+			"name":"flxanimate",
+                        "type":"git",
+		        "ref":"master",
+		        "url":"https://github.com/FNF-CNE-Devs/flxanimate"
 		},
 		{
 			"name":"flixel-ui",
 			"type":"haxelib"
 		},
 		{
-			"name":"hscript",
+			"name":"tjson",
 			"type":"haxelib"
 		},
-		{
-			"name":"tjson",
+                {
+			"name":"away3d",
+			"type":"haxelib"
+		},
+                {
+			"name":"format",
+			"type":"haxelib"
+		},
+                {
+			"name":"markdown",
+			"type":"haxelib"
+		},
+                {
+			"name":"hxvlc",
 			"type":"haxelib"
 		},
 		{
